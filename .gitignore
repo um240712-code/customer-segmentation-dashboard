@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+# ملفات كبيرة لا نحتاجها عند النشر
+data/data.csv
+data/cleaned_data.csv
+data/rfm_data.csv
